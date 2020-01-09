@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB9-8B4A-11D0-8D11-00A0C91BC942}") = "TouchScript", "TouchScript.dll", "{C1F1E626-E652-42BE-BA05-A5E0D3860D4B}"
+	ProjectSection(MonoDevelopProperties) = preProject
+		name = TouchScript
+		Configurations = $0
+		$0.Configuration = $1
+		$1.name = Default
+		$1.OutputPath = .\
+		$1.ctype = ProjectConfiguration
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1F1E626-E652-42BE-BA05-A5E0D3860D4B}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{C1F1E626-E652-42BE-BA05-A5E0D3860D4B}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+EndGlobal
